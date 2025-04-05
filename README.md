@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IBM_Disaster_Recovery
 
 Let me break down the project details, setup instructions, and the `.env` file configuration for you based on the provided code. This is a **Database Backup & Restore Dashboard** built with Node.js, Express, IBM Cloud Object Storage (COS), PostgreSQL, WebSockets, and a simple EJS frontend. It allows manual and automated backups, restores, disaster recovery, and log monitoring.
@@ -151,3 +152,6 @@ AUTO_BACKUP_SCHEDULE=0 2 * * *        # Example: Daily at 2 AM
 ---
 
 This setup should get your project running smoothly! 
+=======
+# Cloud-based-Disaster-Recovery-Using-IBM-Cloud-Resiliency-Orchestration-
+>>>>>>> 461542f593087c49d20faca40ceb2090e2c7a663
